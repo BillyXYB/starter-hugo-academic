@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently an undergraduate student at Hong Kong University of Science and Technology. I am currently doing my final year thesis under the supersvion of Prof. [Qifeng Chen](https://cqf.io/). During my undergraduate years, I was fortunate to work with Mr. [Ehsan Pajouheshgar](https://pajouheshgar.github.io), Dr. [Tong Zhang](https://sites.google.com/view/tong-zhang), Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL, Mr. [Qing Lian](https://scholar.google.com/citations?user=-3R0Cr0AAAAJ&hl=en), Prof. [Tong Zhang](http://tongzhang-ml.org)@HKUST, Dr. [Wayne Wu](https://wywu.github.io)@Sensetime, Prof. [Bo Dai, Prof](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU. 
+I am currently an undergraduate student at Hong Kong University of Science and Technology. I am currently doing my final year thesis under the supersvion of Prof. [Qifeng Chen](https://cqf.io/). During my undergraduate years, I was fortunate to work with Mr. [Ehsan Pajouheshgar](https://pajouheshgar.github.io), Dr. [Tong Zhang](https://sites.google.com/view/tong-zhang), Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL, Mr. [Qing Lian](https://scholar.google.com/citations?user=-3R0Cr0AAAAJ&hl=en), Prof. [Tong Zhang](http://tongzhang-ml.org)@HKUST, Dr. [Wayne Wu](https://wywu.github.io)@Sensetime, Prof. [Bo Dai]](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU. 
 
 My current research interests are in computer vision, including generative modeling and understanding in 3D data.
 
