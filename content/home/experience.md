@@ -41,7 +41,7 @@ experience:
     company: Shanghai AI Lab & SenseTime
     company_url: ''
     company_logo: ''
-    location: Shanghai
+    location: Beijing 
     date_start: '2021-02-01'
     date_end: '2021-12-31'
     description: ''
