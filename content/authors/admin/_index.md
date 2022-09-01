@@ -52,7 +52,7 @@ social:
   # - icon: linkedin
     # icon_pack: fab
     # link: https://www.linkedin.com/
-    - icon: cv
+  - icon: cv
     icon_pack: ai
     link: # files/cv.pdf
 
