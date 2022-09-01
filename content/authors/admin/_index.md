@@ -74,4 +74,4 @@ I am currently an undergraduate student at Hong Kong University of Science and T
 
 My current research interests are in computer vision, including generative modeling and understanding in 3D data.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
