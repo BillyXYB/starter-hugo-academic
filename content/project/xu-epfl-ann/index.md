@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learing Methods for tic-tac-toe
+title: Reinforcement Learning Methods for tic-tac-toe
 summary: Course Project for EPFL Artificial Neral Networks
 tags:
   - Deep Learning
