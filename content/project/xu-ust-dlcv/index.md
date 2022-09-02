@@ -10,8 +10,8 @@ date: '2020-06-10T00:00:00Z'
 external_link: ''
 
 image:
-  # caption: Photo by rawpixel on Unsplash
-  # focal_point: Smart
+  caption: Results of LongStoryGAN
+  focal_point: Smart
 
 links:
   # - icon: twitter

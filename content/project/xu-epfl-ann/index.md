@@ -9,8 +9,8 @@ date: '2022-06-10T00:00:00Z'
 external_link: ''
 
 image:
-  # caption: Photo by rawpixel on Unsplash
-  # focal_point: Smart
+  caption: Visulization for Learned Q values
+  focal_point: Smart
 
 links:
   # - icon: twitter
