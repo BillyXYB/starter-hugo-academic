@@ -1,6 +1,5 @@
 ---
-title: The effect of delay and momentum in
-Asynchronous Stochastic Gradient Descent
+title: The effect of delay and momentum in Asynchronous Stochastic Gradient Descent
 summary: Course Project 
 tags:
   - Deep Learning
