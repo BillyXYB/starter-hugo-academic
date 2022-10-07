@@ -11,8 +11,8 @@ date: 2022-07-20
 authors: ["Qing Lian", "Yanbo Xu", "Weilong Yao", "Yingcong-Chen", "Tong Zhang"]
 publication_types: ["3"]
 featured: False
-url_pdf: 
-url_code: 
+url_pdf: files/semi_cross_view_3d_det.pdf
+url_code: "https://github.com/lianqing11/mvc_monodet"
 publication: "ECCV 2022"
 
 ---

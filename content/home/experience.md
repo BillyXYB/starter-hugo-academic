@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Final Year Thesis
+    company: HKUST Visual Intelligence Lab
+    company_url: ''
+    company_logo: ''
+    location: Hong Kong
+    date_start: '2022-07-01'
+    date_end: ''
+    description: ''
+  
   - title: Research Project
     company: EPFL Image and Visual Representation Lab   
     company_url: ''
@@ -37,8 +46,8 @@ experience:
         # * Modelling
         # * Deploying
 
-  - title: Researcher Internship	
-    company: Shanghai AI Lab & SenseTime
+  - title: Research Internship	
+    company: Shanghai AI Lab
     company_url: ''
     company_logo: ''
     location: Beijing 

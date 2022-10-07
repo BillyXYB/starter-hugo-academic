@@ -54,7 +54,7 @@ social:
     # link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: files/CV_XuYanbo_08_2022.pdf
+    link: files/CV_XuYanbo_10_2022.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,4 +74,4 @@ I am currently an undergraduate student at Hong Kong University of Science and T
 
 My current research interests are in computer vision, including generative modeling and understanding in 3D data domain.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_XuYanbo_08_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_XuYanbo_10_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
