@@ -14,7 +14,7 @@ organizations:
     url: https://hkust.edu.hk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests are computer vision, including generative modeling and understanding in 3D data.
+bio: My current research interests are computer vision, including generative modeling, perception, and understanding in 3D data.
 
 # Interests to show in About widget
 interests:
