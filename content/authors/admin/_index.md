@@ -25,12 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: M.S. Robotics
+      institution: CMU
+      year: 2023-Current
     - course: Exchange Student in Computer Science
       institution: EPFL
       year: 2022
-    - course: BSc in Computer Science and Mathematics
+    - course: BSc in Computer Science and Mathematics (First Class Honor)
       institution: HKUST
-      year: 2018-Current
+      year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +73,8 @@ email: ''
 highlight_name: true
 ---
 
-I am currently an undergraduate student at Hong Kong University of Science and Technology, majoring in computer science and mathematics. I am doing my final year thesis under the supersvion of Prof. [Qifeng Chen](https://cqf.io/). During my undergraduate years, I was fortunate to work with Mr. [Ehsan Pajouheshgar](https://pajouheshgar.github.io), Dr. [Tong Zhang](https://sites.google.com/view/tong-zhang), Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL, Mr. [Qing Lian](https://scholar.google.com/citations?user=-3R0Cr0AAAAJ&hl=en), Prof. [Tong Zhang](http://tongzhang-ml.org)@HKUST, Dr. [Wayne Wu](https://wywu.github.io)@ShanghaiAILab, Prof. [Bo Dai](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU. 
+I am an incoming M.S. in Robotics student at CMU. I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I was fortunate to work with Prof. [Tong Zhang](http://tongzhang-ml.org), Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang) and Prof. [Yu-Wing TAI](https://yuwingtai.github.io)@HKUST. Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL. I did my final year thesis under the supervision of Prof. [Qifeng Chen](https://cqf.io/). I also worked with Dr. [Wayne Wu](https://wywu.github.io)@ShanghaiAILab, Prof. [Bo Dai](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU during my research internship at Shanghai AILAB.
 
-My current research interests are in computer vision, including generative modeling, perception, and understanding in 3D data domain.
+My current research interests are in computer vision, including generative modeling, perception, and understanding in the 3D data domain. I am also very interested to explore the realm of embodied AI. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_XuYanbo_10_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
