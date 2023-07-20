@@ -7,7 +7,7 @@ image:
   focal_point: ""
   preview_only: false
 title: 'FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models'
-date: 2022-06-01
+date: 2023-06-01
 authors: ["Hao Zhang*","Yanbo Xu*", "Tianyuan Dai*", "Yu-Wing Tai", "Chi-Keung Tang"]
 publication_types: ["3"]
 featured: False
