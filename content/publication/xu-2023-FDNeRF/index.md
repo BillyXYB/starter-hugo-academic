@@ -13,6 +13,6 @@ publication_types: ["3"]
 featured: False
 url_pdf: "https://arxiv.org/abs/2306.00783"
 url_code: "https://github.com/BillyXYB/FDNeRF"
-publication: "Preprint"
+publication: "Preprint, 2023"
 
 ---
