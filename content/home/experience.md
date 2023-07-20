@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: Hong Kong
     date_start: '2022-07-01'
-    date_end: ''
+    date_end: '2022-05-01'
     description: ''
   
   - title: Research Project
