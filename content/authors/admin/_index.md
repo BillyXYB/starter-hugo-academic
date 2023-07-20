@@ -10,8 +10,8 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: HKUST
-    url: https://hkust.edu.hk
+  - name: CMU 
+    url: https://www.ri.cmu.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interests are computer vision, including generative modeling, perception, and understanding in 3D data.
