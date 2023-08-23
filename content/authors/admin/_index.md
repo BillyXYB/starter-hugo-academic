@@ -57,7 +57,7 @@ social:
     # link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: files/CV_XuYanbo_10_2022.pdf
+    link: files/CV_XuYanbo_08_2023.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -75,6 +75,6 @@ highlight_name: true
 
 I am an incoming M.S. in Robotics student at CMU. I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I was fortunate to work with Prof. [Tong Zhang](http://tongzhang-ml.org), Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang), Prof. [Yu-Wing TAI](https://yuwingtai.github.io)@HKUST and Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL. I did my final year thesis under the supervision of Prof. [Qifeng Chen](https://cqf.io/). I also worked with Dr. [Wayne Wu](https://wywu.github.io)@ShanghaiAILab, Prof. [Bo Dai](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU during my research internship at Shanghai AI LAB.
 
-My current research interests are in computer vision, including generative modeling, perception, and understanding in the 3D data domain. I am also very interested to explore the realm of embodied AI. 
+My current research interests are in computer vision, including generative modeling, perception, and understanding in the 3D data domain. I am also very interested to explore the realm of robotics, and the intersection of computer vision and robotics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_XuYanbo_10_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
