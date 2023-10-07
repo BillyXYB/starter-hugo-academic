@@ -74,7 +74,9 @@ email: ''
 highlight_name: true
 ---
 
-I am an incoming M.S. in Robotics student at CMU. I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I was fortunate to work with Prof. [Tong Zhang](http://tongzhang-ml.org), Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang), Prof. [Yu-Wing TAI](https://yuwingtai.github.io)@HKUST and Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL. I did my final year thesis under the supervision of Prof. [Qifeng Chen](https://cqf.io/). I also worked with Dr. [Wayne Wu](https://wywu.github.io)@ShanghaiAILab, Prof. [Bo Dai](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU during my research internship at Shanghai AI LAB.
+I am a M.S. in Robotics student at Carnegie Mellon University, advised by Prof. [Shubham Tulsiani](https://shubhtuls.github.io).
+
+I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I was fortunate to work with Prof. [Tong Zhang](http://tongzhang-ml.org), Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang), Prof. [Yu-Wing TAI](https://yuwingtai.github.io)@HKUST and Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL. I did my final year thesis under the supervision of Prof. [Qifeng Chen](https://cqf.io/). I also worked with Dr. [Wayne Wu](https://wywu.github.io)@ShanghaiAILab, Prof. [Bo Dai](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU during my research internship at Shanghai AI LAB.
 
 My current research interests are in computer vision, including generative modeling, perception, and understanding in the 3D data domain. I am also very interested to explore the realm of robotics, and its intersection with computer vision.
 
