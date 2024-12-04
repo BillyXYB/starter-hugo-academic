@@ -78,7 +78,7 @@ I am a M.S. in Robotics student at Carnegie Mellon University, advised by Prof. 
 
 I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I was fortunate to work with Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang),  Prof. [Yu-Wing TAI](https://yuwingtai.github.io), Prof. [Tong Zhang](http://tongzhang-ml.org)@HKUST, and Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL. I did my final year thesis under the supervision of Prof. [Qifeng Chen](https://cqf.io/). I also worked with Dr. [Wayne Wu](https://wywu.github.io), Dr. [Bo Dai](https://daibo.info) during my research internship at Shanghai AI LAB.
 
-My current research interests lie in generative models, particularly diffusion models and GANs. I am keen to explore both their theoretical and empirical properties and apply them to develop systems in computer vision. These systems encompass media generation (images, 3D, and video), physical understanding (pose estimation, object and scene reconstruction, and inferring material properties from visual observations), and planning for robotic agents.
+My current research interests lie in generative models, particularly diffusion models and GANs. I am keen to explore both their theoretical and empirical properties and apply them to develop systems in computer vision. These systems encompass media generation (images, 3D, and video), physical understanding (pose estimation, object and scene reconstruction etc.), and planning for robotic agents.
 
 I’m looking for a Ph.D position starting from 2025 Fall!
 
