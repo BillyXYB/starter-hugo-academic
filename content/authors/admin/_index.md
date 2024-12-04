@@ -76,8 +76,10 @@ highlight_name: true
 
 I am a M.S. in Robotics student at Carnegie Mellon University, advised by Prof. [Shubham Tulsiani](https://shubhtuls.github.io).
 
-I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I was fortunate to work with Prof. [Tong Zhang](http://tongzhang-ml.org), Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang), Prof. [Yu-Wing TAI](https://yuwingtai.github.io)@HKUST and Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL. I did my final year thesis under the supervision of Prof. [Qifeng Chen](https://cqf.io/). I also worked with Dr. [Wayne Wu](https://wywu.github.io)@ShanghaiAILab, Prof. [Bo Dai](https://daibo.info) and Prof. [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)@NTU during my research internship at Shanghai AI LAB.
+I received my B.S. in Computer Science and Mathematics from Hong Kong University of Science and Technology. During my undergraduate years, I was fortunate to work with Prof. [Chi-Keung TANG](https://cse.hkust.edu.hk/admin/people/faculty/profile/cktang),  Prof. [Yu-Wing TAI](https://yuwingtai.github.io), Prof. [Tong Zhang](http://tongzhang-ml.org)@HKUST, and Prof. [Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)@EPFL. I did my final year thesis under the supervision of Prof. [Qifeng Chen](https://cqf.io/). I also worked with Dr. [Wayne Wu](https://wywu.github.io), Dr. [Bo Dai](https://daibo.info) during my research internship at Shanghai AI LAB.
 
-My current research interests are in computer vision, including generative modeling, perception, and understanding in the 3D data domain. I am also very interested to explore the realm of robotics, and its intersection with computer vision.
+My current research interests lie in generative models, particularly diffusion models and GANs. I am keen to explore both their theoretical and empirical properties and apply them to develop systems in computer vision. These systems encompass media generation (images, 3D, and video), physical understanding (pose estimation, object and scene reconstruction, and inferring material properties from visual observations), and planning for robotic agents.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_XuYanbo_08_2023.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I’m looking for a Ph.D position starting from 2025 Fall!
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_XuYanbo_12_2024.pdf" "newtab" >}}resumé{{< /staticref >}}.
