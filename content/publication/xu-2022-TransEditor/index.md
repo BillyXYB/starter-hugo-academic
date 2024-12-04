@@ -5,7 +5,7 @@
 image: 
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 title: 'TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing'
 date: 2022-03-31
 authors: ["Yanbo Xu*","Yueqin Yin*", "Liming Jiang", "Qianyi Wu", "Chengyao Zheng", "Chen Change Loy", "Bo Dai", "Wayne Wu"]
