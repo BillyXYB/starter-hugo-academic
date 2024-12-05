@@ -15,5 +15,5 @@ url_pdf: "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_TransEditor_T
 url_code: "https://billyxyb.github.io/TransEditor/"
 publication: "CVPR 2022"
 
+# <!-- {{< figure src="./teaser.png" alt="Description of image">}} -->
 ---
-<!-- {{< figure src="./teaser.png" alt="Description of image">}} -->
