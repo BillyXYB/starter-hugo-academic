@@ -62,7 +62,7 @@ social:
     # link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: files/CV_XuYanbo_08_2023.pdf
+    link: files/CV_XuYanbo_12_2024.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
