@@ -2,7 +2,7 @@
 title: The effect of delay and momentum in Asynchronous Stochastic Gradient Descent
 summary: Course Project for EPFL Optimization for Machine Learning
 tags:
-  - Deep Learning
+  -  Machine Learning
 date: '2022-06-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

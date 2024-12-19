@@ -1,6 +1,6 @@
 ---
 title: Differentiable Rendering for Local Parameters
-summary: Course Project for CMU Physical-based rendering
+summary: Course Project for CMU Physical-based Rendering
 tags:
   - Graphics
 date: '2024-06-10T00:00:00Z'
