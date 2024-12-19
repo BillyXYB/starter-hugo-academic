@@ -3,7 +3,7 @@ title: "LongStoryGAN: A Chronological Illustration Generation Framework For
 Documents"
 summary: Course Project for HKUST Deep Learning for Computer Vision
 tags:
-  - Deep Learning
+  - Computer Vision
 date: '2020-06-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
