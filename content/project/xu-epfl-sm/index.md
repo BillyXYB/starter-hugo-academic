@@ -1,6 +1,6 @@
 ---
-title: Disentangled representation for Neural Rendering and 3D GAN 
-summary: Resarch Project at EPFL
+title: Disentangled Representation for Neural Rendering and 3D GAN 
+summary: Research Project at EPFL
 tags:
   - Computer Vision
 date: '2022-08-10T00:00:00Z'

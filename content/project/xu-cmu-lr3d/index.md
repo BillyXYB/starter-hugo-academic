@@ -1,6 +1,6 @@
 ---
 title: Distillation-free Text-to-3D via Guided Multi-view Diffusion
-summary: Resarch Project at CMU
+summary: Research Project at CMU
 tags:
   - Computer Vision
 date: '2024-06-10T00:00:00Z'
